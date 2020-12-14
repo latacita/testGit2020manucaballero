@@ -1,8 +1,11 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Caballero Rabago, Manuel):                               %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ (01)	git clone https://github.com/latacita/testGit2020manucaballero.git
+ (02)	git branch DatosPersonales y en source tree doble click en ella
+ (03)	Editar y guardar los cambios requeridos
