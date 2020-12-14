@@ -6,3 +6,7 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ (10)	Click en master sourcetree
+ (11)	push de esa rama en sourcetree
+ (12)	Ambas recursivas, estamos modificando bitacora igual que las otras dos ramas
+ (13)	git commit 
