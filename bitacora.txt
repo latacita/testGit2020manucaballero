@@ -17,3 +17,6 @@
  (11)	push de esa rama en sourcetree
  (12)	Ambas recursivas, estamos modificando bitacora igual que las otras dos ramas
  (13)	git commit
+ (14)	git merge --no-ff	Conflicto que hay que solucionar con los pasos
+ (15)	git merge --no-ff	Conflicto que hay que solucionar con los pasos
+ (16)	git commit
