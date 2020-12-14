@@ -6,7 +6,11 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+ (06)	git checkout a655ef4
+ (07)	git branch antecedentes
+ (08)	crear archivo y escribir
+ (09)	git add y git commit
  (10)	Click en master sourcetree
  (11)	push de esa rama en sourcetree
  (12)	Ambas recursivas, estamos modificando bitacora igual que las otras dos ramas
- (13)	git commit 
+ (13)	git commit
